@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "587624811399",
+    "project_id": "spillthetea-f5876",
+    "storage_bucket": "spillthetea-f5876.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:587624811399:android:127289d344dfb6ed36a122",
+        "android_client_info": {
+          "package_name": "com.example.spillthetea"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnMR8QV9WHCK4_16vKqucfPFm_kjQFNCw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
